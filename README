@@ -1,0 +1,12 @@
+## 0.2.0 (2011-4-5)
+* General packet handling
+* Spice-render cloud
+
+## 0.1.5 (2011-4-4)
+* Networking inclusive
+* Login decoding
+* Packet codec
+
+## 0.1.0 (2011-4-3)
+
+* First release
